@@ -1,0 +1,27 @@
+{
+  "name": "express-mapping",
+  "version": "1.0.1",
+  "description": "express router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuyang041060120/express-mapping"
+  },
+  "keywords": [
+    "express",
+    "router",
+    "mapping"
+  ],
+  "author": "yuyangyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuyang041060120/express-mapping/issues"
+  },
+  "homepage": "https://github.com/yuyang041060120/express-mapping",
+  "dependencies": {
+    "walk": "^2.3.9"
+  }
+}
